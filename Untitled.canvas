@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a0092680b8d2f9f0","x":-332,"y":-333,"width":400,"height":400,"type":"file","file":"Formatting/Task.md"},
+		{"id":"a2bb0cf25c39237a","x":-332,"y":-95,"width":400,"height":400,"type":"file","file":"Untitled.canvas"},
+		{"id":"b5a7f754146a2cc1","x":-125,"y":-30,"width":250,"height":60,"color":"3","type":"text","text":"ffgdfgfgdfg"},
+		{"id":"f41d1b58a18b2214","x":-325,"y":201,"width":400,"height":400,"type":"file","file":"Untitled.canvas"}
+	],
+	"edges":[]
+}

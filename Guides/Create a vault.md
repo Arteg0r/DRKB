@@ -16,3 +16,4 @@ If you already have a folder that you want to use as your vault:
 3. Click **Open**.
 
 Now that you've set up your vault, you're ready to [Create your first note](Create%20your%20first%20note.md).
+Now that you've set up your vault, you're ready to [Create your first note](Create your first note).
